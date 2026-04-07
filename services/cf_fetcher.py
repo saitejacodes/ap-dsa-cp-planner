@@ -29,3 +29,4 @@ def process_cf_data(submissions):
                 topic_stats[tag]["failed"]+=1
     return topic_stats
 
+
