@@ -23,3 +23,4 @@ else:
 if st.button("Generate My Plan"):
     st.info("Navigate to My Plan page to generate!")
 
+
