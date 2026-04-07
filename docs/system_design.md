@@ -1,6 +1,6 @@
 # System Design: AI CP/DSA Planner 
 
-This document outlines the architecture and workflows of the CP Planner AI, explaining how it combines user data, vector search, and LLM-powered agents to create personalized training paths.
+This document outlines the architecture and workflows of the DSA Planner, explaining how it combines user data, vector search, and LLM-powered agents to create personalized training paths.
 
 ```mermaid
 graph TD
