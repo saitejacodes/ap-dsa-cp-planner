@@ -1,6 +1,6 @@
 streamlit
 pymongo
-chromadb
+chromadb==0.4.24
 langchain
 langchain-groq
 python-dotenv
@@ -9,3 +9,4 @@ plotly
 sentence-transformers
 beautifulsoup4
 lxml
+pysqlite3-binary
