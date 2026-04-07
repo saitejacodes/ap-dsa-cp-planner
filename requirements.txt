@@ -1,0 +1,11 @@
+streamlit
+pymongo
+chromadb
+langchain
+langchain-groq
+python-dotenv
+requests
+plotly
+sentence-transformers
+beautifulsoup4
+lxml
