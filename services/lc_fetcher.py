@@ -31,3 +31,4 @@ def process_lc_data(lc_user_data):
                 topic_stats[tgt]={"attempted":t.get("problemsSolved",0),"solved":t.get("problemsSolved",0),"failed":0}
     return topic_stats
 
+
