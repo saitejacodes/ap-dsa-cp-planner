@@ -27,3 +27,4 @@ def detect_weaknesses(cf_stats,lc_stats):
     analysis.sort(key=lambda x:x["rate"])
     return analysis
 
+
