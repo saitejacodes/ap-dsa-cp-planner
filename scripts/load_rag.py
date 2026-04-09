@@ -6,7 +6,7 @@ from rag.vectorstore import dsa_collection,math_collection
 def load_rag():
     cf_res=requests.get("https://codeforces.com/api/problemset.problems").json()
     if cf_res["status"]=="OK":
-        problems=cf_res["result"]["problems"][:200]
+        problems=cf_res["result"]["problems"][:50]
         docs=[]
         ids=[]
         for i,p in enumerate(problems):
